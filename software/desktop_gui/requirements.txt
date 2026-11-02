@@ -1,0 +1,3 @@
+
+# External dependencies
+pyserial>=3.5,<4.0
